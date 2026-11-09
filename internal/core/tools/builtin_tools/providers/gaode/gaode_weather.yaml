@@ -1,4 +1,0 @@
-name: gaode_weather
-label: Gaode Weather Forecast Query
-description: Retrieve the weather forecast for a specified city.
-params: [ ]
